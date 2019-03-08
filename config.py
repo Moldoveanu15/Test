@@ -1,6 +1,6 @@
 OWNER_ID = 'owner id (owner has all perms)'
 BOT_PREFIX = '!'
-TOKEN = 'bot token goes here'
+TOKEN = 'NDMyNDM3OTA5MzQ2MzIwMzg1.D2QyiQ.TBMoQ0xvWPYGUoAo7LWsu7c5HtU'
 GAME_CHANNEL = 'lobby channel id'
 DEBUG_CHANNEL = 'debug channel id (for all your errors and debug stuff)'
 WEREWOLF_SERVER = 'id of server the bot is running on'
